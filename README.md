@@ -4,7 +4,7 @@ Bu layihə JavaScript və React istifadə edərək hazırlanmış sadə bir tap�
 
 ## 🚀 Proyektin Linki
 
-➡️ [Weather App - Vercel](https://todo-app-chi-gray-24.vercel.app/)
+➡️ [Todo App - Vercel](https://todo-app-chi-gray-24.vercel.app/)
 
 ## 👨‍💻 İstifadə Etdiyim Texnologiyalar
 
